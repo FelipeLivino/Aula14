@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Veiculo P2</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_veiculo_modelo">Escolha suas opções.</string>
+    <string name="label_veiculo_ano">Ano: </string>
+    <string name="label_veiculo_kmlivre">Kmlivre: </string>
+    <string name="label_veiculo_marca">Marca: </string>
+    <string name="label_veiculo_categoria">Categoria: </string>
+    <string name="botao_enviar">Consultar Simples</string>
+
+
+    <string-array name="categorias">
+
+        <item>Escolha a categoria</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+
+    </string-array>
+
+    <string-array name="anos">
+
+        <item>Escolha o ano</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+
+    </string-array>
+
+    <string-array name="marcas">
+
+        <item>Escolha a marca</item>
+        <item>Fiat</item>
+        <item>Chevrolet</item>
+        <item>Hyundai</item>
+        <item>Ford</item>
+        <item>Volkswagen</item>
+        <item>Renault</item>
+        <item>Toyota</item>
+
+    </string-array>
+    <string name="title_activity_lista_veiculo">Lista de Veiculos</string>
+
+    <string name="txt_lista_veiculos">Nenhuma veiculo encontrada</string>
+    <string name="title_activity_detalhe_veiculo">Veiculo Escolhido</string>
+
+    <string name="botao_enviar_melhor">Consultar Melhor</string>
+
+</resources>
+
